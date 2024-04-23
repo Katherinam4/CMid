@@ -1,0 +1,10 @@
+C:\Users\Ekaterine\source\repos\Midterm_Var4\Midterm_Var4\bin\Debug\Midterm_Var4.exe.config
+C:\Users\Ekaterine\source\repos\Midterm_Var4\Midterm_Var4\bin\Debug\Midterm_Var4.exe
+C:\Users\Ekaterine\source\repos\Midterm_Var4\Midterm_Var4\bin\Debug\Midterm_Var4.pdb
+C:\Users\Ekaterine\source\repos\Midterm_Var4\Midterm_Var4\obj\Debug\Midterm_Var4.csproj.AssemblyReference.cache
+C:\Users\Ekaterine\source\repos\Midterm_Var4\Midterm_Var4\obj\Debug\Midterm_Var4.Form1.resources
+C:\Users\Ekaterine\source\repos\Midterm_Var4\Midterm_Var4\obj\Debug\Midterm_Var4.Properties.Resources.resources
+C:\Users\Ekaterine\source\repos\Midterm_Var4\Midterm_Var4\obj\Debug\Midterm_Var4.csproj.GenerateResource.cache
+C:\Users\Ekaterine\source\repos\Midterm_Var4\Midterm_Var4\obj\Debug\Midterm_Var4.csproj.CoreCompileInputs.cache
+C:\Users\Ekaterine\source\repos\Midterm_Var4\Midterm_Var4\obj\Debug\Midterm_Var4.exe
+C:\Users\Ekaterine\source\repos\Midterm_Var4\Midterm_Var4\obj\Debug\Midterm_Var4.pdb
